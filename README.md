@@ -2,6 +2,7 @@
 
 - 📍 Located in Los Angeles, CA
 - 🧑‍💻 CEO, Next Corner
+- 🌱 Building Brach Networking
 - 📚 Designer & Developer
 
  
